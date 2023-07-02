@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Add exercise one [Strings Exercises]">
-      <change afterPath="$PROJECT_DIR$/Second_Session/ex_SEVEN/ExSeven.scala" afterDir="false" />
+    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Add exercise two [Strings Exercises]">
+      <change afterPath="$PROJECT_DIR$/Second_Session/ex_EIGHT/ExEight.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/scala_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -45,7 +45,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExSeven">
+  <component name="RunManager" selected="Application.ExEight">
+    <configuration name="ExEight" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ExEight" />
+      <module name="scala_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExFive" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ExFive" />
       <module name="scala_project" />
@@ -74,20 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExThree" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ExThree" />
-      <module name="scala_project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExEight" />
         <item itemvalue="Application.ExSeven" />
         <item itemvalue="Application.ExSix" />
         <item itemvalue="Application.ExFive" />
         <item itemvalue="Application.ExFour" />
-        <item itemvalue="Application.ExThree" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688325619933</updated>
-      <workItem from="1688325622014" duration="6079000" />
+      <workItem from="1688325622014" duration="7053000" />
     </task>
     <task id="LOCAL-00001" summary="Add ex two of day 2">
       <created>1688326147096</created>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688333380952</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add exercise two [Strings Exercises]">
+      <created>1688334243805</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688334243805</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +171,7 @@
     <MESSAGE value="Add exercise five" />
     <MESSAGE value="Minor changes exercise five" />
     <MESSAGE value="Add exercise one [Strings Exercises]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add exercise one [Strings Exercises]" />
+    <MESSAGE value="Add exercise two [Strings Exercises]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add exercise two [Strings Exercises]" />
   </component>
 </project>
