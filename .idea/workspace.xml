@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Add ex two of day 2">
+      <change afterPath="$PROJECT_DIR$/Second_Session/ex_THREE/ExThree.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/scala_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Second_Session/ex_ONE/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Second_Session/ex_ONE/ExOne.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second_Session/ex_TWO/ExTwo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Second_Session/ex_TWO/ExTwo.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2S1srQapKGQP89vb1cF3FV8lrTW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,11 +68,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688325619933</updated>
-      <workItem from="1688325622014" duration="390000" />
+      <workItem from="1688325622014" duration="1776000" />
     </task>
+    <task id="LOCAL-00001" summary="Add ex two of day 2">
+      <created>1688326147096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688326147096</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add ex two of day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ex two of day 2" />
   </component>
 </project>

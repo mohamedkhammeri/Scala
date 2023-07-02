@@ -1,21 +1,24 @@
-import scala.collection.immutable.TreeSet
+import scala.collection.immutable.{ListMap, TreeSet}
 
 object ExTwo {
   def highest_frequency(numbers: Array[Int], k: Int): Set[Int] = {
     var highestNumbers: Set[Int] = TreeSet.empty(Ordering[Int].reverse)
+    var numberOccurrence: Map[Int, Int] = Map()
     for (number <- numbers) {
       var counter: Integer = 0
-      for (_number <- numbers) {
-        if (_number.equals(number)) {
-          counter += 1
-        }
+
+      if (numberOccurrence.contains(number)) {
+        counter = numberOccurrence.apply(number)
       }
-      // Check for frequency
-      if (counter >= k) {
-        highestNumbers = highestNumbers.+(number)
-      }
+      numberOccurrence = numberOccurrence + (number -> (counter + 1))
     }
 
+    // Sort the map by value
+    val res = ListMap(numberOccurrence.toSeq.sortWith(_._2 > _._2): _*)
+    // Get first k numbers
+    for (i <- 0 to k) {
+      highestNumbers = highestNumbers.+(res.toSeq(i)._2)
+    }
     highestNumbers
   }
 
