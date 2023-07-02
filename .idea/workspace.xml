@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Fix exercise two">
-      <change afterPath="$PROJECT_DIR$/Second_Session/ex_THREE/ExThree.scala" afterDir="false" />
+    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Add exercise three">
+      <change afterPath="$PROJECT_DIR$/Second_Session/ex_FOUR/ExFour.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExThree">
+  <component name="RunManager" selected="Application.ExFour">
+    <configuration name="ExFour" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ExFour" />
+      <module name="scala_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExThree" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ExThree" />
       <module name="scala_project" />
@@ -61,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExFour" />
         <item itemvalue="Application.ExThree" />
         <item itemvalue="Application.ExTwo" />
       </list>
@@ -74,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688325619933</updated>
-      <workItem from="1688325622014" duration="2592000" />
+      <workItem from="1688325622014" duration="3888000" />
     </task>
     <task id="LOCAL-00001" summary="Add ex two of day 2">
       <created>1688326147096</created>
@@ -90,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688327562205</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add exercise three">
+      <created>1688330771223</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688330771223</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add ex two of day 2" />
     <MESSAGE value="Fix exercise two" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix exercise two" />
+    <MESSAGE value="Add exercise three" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add exercise three" />
   </component>
 </project>
