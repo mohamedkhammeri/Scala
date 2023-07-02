@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Minor changes exercise five" />
+    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Add exercise one [Strings Exercises]">
+      <change afterPath="$PROJECT_DIR$/Second_Session/ex_SEVEN/ExSeven.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +45,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExSix">
+  <component name="RunManager" selected="Application.ExSeven">
     <configuration name="ExFive" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ExFive" />
       <module name="scala_project" />
@@ -51,6 +55,13 @@
     </configuration>
     <configuration name="ExFour" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ExFour" />
+      <module name="scala_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExSeven" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ExSeven" />
       <module name="scala_project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,20 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExTwo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ExTwo" />
-      <module name="scala_project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExSeven" />
         <item itemvalue="Application.ExSix" />
         <item itemvalue="Application.ExFive" />
         <item itemvalue="Application.ExFour" />
         <item itemvalue="Application.ExThree" />
-        <item itemvalue="Application.ExTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -95,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688325619933</updated>
-      <workItem from="1688325622014" duration="4962000" />
+      <workItem from="1688325622014" duration="6079000" />
     </task>
     <task id="LOCAL-00001" summary="Add ex two of day 2">
       <created>1688326147096</created>
@@ -139,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688333083779</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add exercise one [Strings Exercises]">
+      <created>1688333380952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688333380952</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +163,7 @@
     <MESSAGE value="Add exercise four" />
     <MESSAGE value="Add exercise five" />
     <MESSAGE value="Minor changes exercise five" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor changes exercise five" />
+    <MESSAGE value="Add exercise one [Strings Exercises]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add exercise one [Strings Exercises]" />
   </component>
 </project>
