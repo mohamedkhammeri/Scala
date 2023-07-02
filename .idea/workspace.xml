@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Add exercise four">
-      <change afterPath="$PROJECT_DIR$/Second_Session/ex_FIVE/ExFive.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_project.iml" afterDir="false" />
+    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Add exercise five">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second_Session/ex_FIVE/ExFive.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Second_Session/ex_FIVE/ExFive.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688325619933</updated>
-      <workItem from="1688325622014" duration="4884000" />
+      <workItem from="1688325622014" duration="4926000" />
     </task>
     <task id="LOCAL-00001" summary="Add ex two of day 2">
       <created>1688326147096</created>
@@ -121,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688332168084</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add exercise five">
+      <created>1688333033788</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688333033788</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +138,7 @@
     <MESSAGE value="Fix exercise two" />
     <MESSAGE value="Add exercise three" />
     <MESSAGE value="Add exercise four" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add exercise four" />
+    <MESSAGE value="Add exercise five" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add exercise five" />
   </component>
 </project>
