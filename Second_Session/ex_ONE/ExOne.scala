@@ -1,4 +1,4 @@
-object Main {
+object ExOne {
   def word_occurrence(words: Array[String]): String = {
     var mostOccurrenceWord: String = words.head
     var mostOccurrenceWordCounter: Integer = 0
