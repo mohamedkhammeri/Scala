@@ -1,7 +1,5 @@
 # Scala Exercises
 
-____
-
 ## Day 1
 
 - [Exercise 1](First_Session/ex_ONE/src/Main.scala) : Write a Scala program that takes two numbers as input and prints

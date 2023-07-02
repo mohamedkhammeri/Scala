@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Add exercise five [Strings Exercises]">
+    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Update README.md">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688325619933</updated>
-      <workItem from="1688325622014" duration="11103000" />
+      <workItem from="1688325622014" duration="11265000" />
     </task>
     <task id="LOCAL-00001" summary="Add ex two of day 2">
       <created>1688326147096</created>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688339197311</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update README.md">
+      <created>1688339421984</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688339421984</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +201,7 @@
     <MESSAGE value="Add exercise three [Strings Exercises]" />
     <MESSAGE value="Add exercise four [Strings Exercises]" />
     <MESSAGE value="Add exercise five [Strings Exercises]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add exercise five [Strings Exercises]" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
 </project>
