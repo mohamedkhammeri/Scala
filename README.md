@@ -1,4 +1,4 @@
-# Scala Exercises
+# 🛠 Scala Exercises
 
 ## Day 1
 
