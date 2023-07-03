@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Update README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dea89277-e276-4979-a802-d878b0a59f2a" name="Changes" comment="Update repo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -22,7 +21,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2S1srQapKGQP89vb1cF3FV8lrTW" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -40,6 +39,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,6 +99,9 @@
       <option name="presentableId" value="Default" />
       <updated>1688325619933</updated>
       <workItem from="1688325622014" duration="17521000" />
+      <workItem from="1688418100168" duration="693000" />
+      <workItem from="1688418911817" duration="427000" />
+      <workItem from="1688419354704" duration="106000" />
     </task>
     <task id="LOCAL-00001" summary="Add ex two of day 2">
       <created>1688326147096</created>
@@ -225,13 +229,62 @@
       <option name="project" value="LOCAL" />
       <updated>1688377106433</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Update repo">
+      <created>1688418147445</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1688418147445</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update repo">
+      <created>1688418669475</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1688418669475</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update repo">
+      <created>1688418774633</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1688418774633</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update repo">
+      <created>1688419313974</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1688419313974</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Update repo">
+      <created>1688419376664</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1688419376664</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Third_Session" />
+    </ignored-roots>
     <MESSAGE value="Add ex two of day 2" />
     <MESSAGE value="Fix exercise two" />
     <MESSAGE value="Add exercise three" />
@@ -244,6 +297,7 @@
     <MESSAGE value="Add exercise four [Strings Exercises]" />
     <MESSAGE value="Add exercise five [Strings Exercises]" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Update repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update repo" />
   </component>
 </project>
