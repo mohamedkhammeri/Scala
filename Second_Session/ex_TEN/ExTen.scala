@@ -40,7 +40,7 @@ object ExTen {
           if (temporary_seq.head != currentChar) {
             temporary_seq = ""
           } else {
-            temporary_seq = temporary_seq.replace(currentChar + "", "");
+            temporary_seq = temporary_seq.replace(currentChar + "", "")
           }
         }
 
