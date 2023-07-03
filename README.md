@@ -24,8 +24,8 @@
 - [Exercise 4](Second_Session/ex_FOUR/ExFour.scala) : Create a function that takes an array of integers and returns the longest subarray with consecutive elements. For example, in the array [1, 2, 3, 5, 6, 7, 9], the longest consecutive subarray is [5, 6, 7].
 - [Exercise 5](Second_Session/ex_FIVE/ExFive.scala) : Implement a function that takes a list of strings and sorts them based on their lengths in descending order. If two strings have the same length, sort them lexicographically. the larger number. 
 ### Strings
-- [Exercise 1](Second_Session/ex_SIX/ExSix.scala) : Create a function that takes a string and returns the longest substring without repeating characters.
-- [Exercise 2](Second_Session/ex_SEVEN/ExSeven.scala) : Implement a function that takes a string and returns the count of distinct words in the string. Ignore punctuation and consider words separated by spaces.
-- [Exercise 3](Second_Session/ex_EIGHT/ExEight.scala) : Create a function that takes a string and returns the most frequent character in the string. If there are multiple characters with the same frequency, return the one that appears first in the string.
-- [Exercise 4](Second_Session/ex_NINE/ExNine.scala) : Implement a function that takes two strings and checks if they are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of another word or phrase.
-- [Exercise 5](Second_Session/ex_TEN/ExTen.scala) : Create a function that takes a string and returns the shortest substring that contains all the characters of a given set. The substring should have the minimum length.
+- [Exercise 6](Second_Session/ex_SIX/ExSix.scala) : Create a function that takes a string and returns the longest substring without repeating characters.
+- [Exercise 7](Second_Session/ex_SEVEN/ExSeven.scala) : Implement a function that takes a string and returns the count of distinct words in the string. Ignore punctuation and consider words separated by spaces.
+- [Exercise 8](Second_Session/ex_EIGHT/ExEight.scala) : Create a function that takes a string and returns the most frequent character in the string. If there are multiple characters with the same frequency, return the one that appears first in the string.
+- [Exercise 9](Second_Session/ex_NINE/ExNine.scala) : Implement a function that takes two strings and checks if they are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of another word or phrase.
+- [Exercise 10](Second_Session/ex_TEN/ExTen.scala) : Create a function that takes a string and returns the shortest substring that contains all the characters of a given set. The substring should have the minimum length.
