@@ -1,6 +1,6 @@
 # 🛠 Scala Exercises
 
-## Day 1
+## 📚 Day 1
 
 - [Exercise 1](First_Session/ex_ONE/src/Main.scala) : Write a Scala program that takes two numbers as input and prints the larger number.
 - [Exercise 2](First_Session/ex_TWO/src/Main.scala) : Write a Scala program that checks if a given number is positive, negative, or zero. Print the appropriate message based on the input.
@@ -16,7 +16,7 @@
 - [Exercise 12](First_Session/ex_TWELVE/src/Main.scala) : Write a Scala program that prompts the user to enter a three-digit number. Determine if the number is an Armstrong number or not. Print the result accordingly.
 
 
-## Day 2
+## 📚 Day 2
   ### Collections and Arrays
 - [Exercise 1](Second_Session/ex_ONE/ExOne.scala) : Implement a function that takes a list of strings and returns the most frequently occurring word in the list. If there are multiple words with the same frequency, return the one that appears first.
 - [Exercise 2](Second_Session/ex_TWO/ExTwo.scala) : Create a function that takes a list of integers and returns the top k numbers with the highest frequency. If there are ties, return the numbers in ascending order.
