@@ -30,7 +30,9 @@
 - [Exercise 9](Second_Session/ex_NINE/ExNine.scala) : Implement a function that takes two strings and checks if they are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of another word or phrase.
 - [Exercise 10](Second_Session/ex_TEN/ExTen.scala) : Create a function that takes a string and returns the shortest substring that contains all the characters of a given set. The substring should have the minimum length.
 
-## 📚 Day 3
+## 📚 Day 3 
 - [Exercise 1](Third_Session/src/Main.scala) :  1. Create a class called `Person` with properties: `name` (String), `age` (Int), and `email` (String). Implement a method `greet()` that prints a greeting message with the person's name and age.
-                                                2. Create a class called `Rectangle` with properties: `length` (Double) and `width` (Double). Implement methods to calculate the area and perimeter of the rectangle.
+- [Exercise 2](Third_Session/src/Main.scala) :  1. Create a class called `Person` with properties: `name` (String), `age` (Int), and `email` (String). Implement a method `greet()` that prints a greeting message with the person's name and age.
+- [Exercise 3](Third_Session/src/Main.scala) :  1. Create a class called `Person` with properties: `name` (String), `age` (Int), and `email` (String). Implement a method `greet()` that prints a greeting message with the person's name and age.
+                                                2. Create a class called `Rectangle` with properties: `length` (Double) and `width` (Double). Implement methods to calculate the area and perimeter of the rectangle..
                                                 3. Create a class called `BankAccount` with properties: `accountNumber` (String) and `balance` (Double). Implement methods to deposit and withdraw money from the account.
